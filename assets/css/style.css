@@ -855,6 +855,10 @@ a:hover {
   height: 0.7rem;
 }
 
+.progress {
+  width: 90%;
+}
+
 .skill-mf .progress .progress-bar {
   height: 0.7rem;
   background-color: #0078ff;
@@ -869,7 +873,7 @@ a:hover {
   border-radius: 1rem;
   margin-bottom: 3rem;
   text-align: center;
-  height: 48 0px;
+  height: 480px;
 }
 
 .service-box:hover .ico-circle {
